@@ -1,19 +1,49 @@
-name: "NEPHSTUFF"
-title: "NEPHSTUFF"
+name: "Nephromancer"
+title: "Nephromancer"
 type: inverse
 left:
   - text: "U&E"
     menu:
-      - text: "Learn more about me"
-        href: ./aboutme.html
+      - text: "H+ & HCO3"
+        href: ./acidbase.html
+      - text: "Na"
+        href: ./na.html
+      - text: "K"
+        href: ./k.html
+      - text: "MG"
+        href: ./mg.html
+      - text: "Ca2+"
+        href: ./ca.html
+      - text: "PO4"
+        href: ./po4.html
   - text: "GN"
     menu:
-      - text: "Learn more about me"
+      - text: "H+ & HCO3"
+        href: ./aboutme.html
+      - text: "Na"
+        href: ./aboutme.html
+      - text: "K"
+        href: ./aboutme.html
+      - text: "MG"
+        href: ./aboutme.html
+      - text: "Ca2+"
+        href: ./aboutme.html
+      - text: "PO4"
         href: ./aboutme.html
   - text: "CKD"
     menu:
-      - text: "Learn more about me"
+      - text: "H+ & HCO3"
         href: ./aboutme.html
+      - text: "Na"
+        href: ./aboutme.html
+      - text: "K"
+        href: ./aboutme.html
+      - text: "MG"
+        href: ./aboutme.html
+      - text: "Ca2+"
+        href: ./aboutme.html
+      - text: "Renal-Bone"
+        href: ./renalbone.html
   - text: "TX"
     menu:
        - text: "Project part 1"
@@ -22,24 +52,34 @@ left:
          href: ./project2.html
   - text: "RRT"
     menu:
-       - text: "Project part 1"
-         href: ./project1.html
-       - text: "Project part 2"
-         href: ./project2.html
+      - text: "HD"
+        href: ./aboutme.html
+      - text: "IRON"
+        href: ./aboutme.html
+      - text: "Access"
+        href: ./aboutme.html
+      - text: "PD"
+        href: ./aboutme.html
   - text: "DRUGS"
     menu:
-       - text: "Project part 1"
-         href: ./project1.html
-       - text: "Project part 2"
-         href: ./project2.html
+      - text: "H+ & HCO3"
+        href: ./aboutme.html
+      - text: "Na"
+        href: ./aboutme.html
+      - text: "K"
+        href: ./aboutme.html
+      - text: "MG"
+        href: ./aboutme.html
+      - text: "Ca2+"
+        href: ./aboutme.html
+      - text: "PO4"
+        href: ./aboutme.html
   - text: "EDU"
     menu:
        - text: "Project part 1"
          href: ./project1.html
        - text: "Project part 2"
          href: ./project2.html
-  - text: "Contact"
-    href: ./contact.html
 right:
   - icon: fa-github fa-lg
     href: https:eoindosullivan.com

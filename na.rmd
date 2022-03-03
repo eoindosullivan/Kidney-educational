@@ -1,0 +1,73 @@
+---
+title: "NA"
+output: html_document
+---
+
+<style>
+div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
+</style>
+<div class = "blue">
+
+- Hyponatraemia is all about ADH
+- Hypertonic Saline: 3% 150 mls/20 mins. recheck while giving second bag. target increase of 5mmol/L
+- Speed limit: 10/first 24 hrs, 8/24 hrs thereafter
+- Urine Na: >30 mmol/l urinary Na = dry
+- Urine Osm: <100 mmmol/L = appropriately dilute. 100 - serum osm = grey area.
+
+</div>
+<br>
+
+### Hyperglycaemia correction of Na
+
+This translates into adding 2.4 mmol/l to the
+measured serum sodium concentration for every
+5.5 mmol/l (100 mg/dl) incremental rise in serum glucose
+concentration above a standard serum glucose concentration of 5.5 mmol/l (100 mg/dl).
+
+<br>
+
+### SIADH criteria
+
+* Essential criteria
+* Effective serum osmolality >275 mOsm/kg
+* Urine osmolality >100 mOsm/kg at some level of decreased
+effective osmolality
+* Clinical euvolaemia
+* Urine sodium concentration >30 mmol/l with normal dietary
+salt and water intake
+* Absence of adrenal, thyroid, pituitary or renal insufficiency
+* No recent use of diuretic agents
+* Supplemental criteria
+  + Serum uric acid >0.24 mmol/l (>4 mg/dl)
+  + Serum urea >3.6 mmol/l (>21.6 mg/dl)
+  + Failure to correct hyponatraemia after 0.9% saline infusion
+  + Fractional sodium excretion >0.5%
+  + Fractional urea excretion >55%
+  + Fractional uric acid excretion >12%
+  + Correction of hyponatraemia through fluid restriction
+
+<br>
+
+### DI
+
+<br>
+
+### Hypernatreamia
+
+[Free water clearance calculator](https://www.mdcalc.com/free-water-deficit-hypernatremia). Thats basically it.
+
+<br>
+
+### Cerebral Salt wasting
+
+![](images/siadhvscerebralsaltwasting.png)
+
+<br>
+
+# Protocols
+
+protocol links go here
+
+# Nephstuff
+
+[European Renal-Endocrine guideline](https://eje.bioscientifica.com/view/journals/eje/170/3/G1.xml)
