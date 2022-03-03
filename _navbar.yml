@@ -1,12 +1,38 @@
-name: "Mywebsite"
-title: "My new website"
+name: "NEPHSTUFF"
+title: "NEPHSTUFF"
 type: inverse
 left:
-  - text: "About me"
+  - text: "U&E"
     menu:
       - text: "Learn more about me"
         href: ./aboutme.html
-  - text: "Project"
+  - text: "GN"
+    menu:
+      - text: "Learn more about me"
+        href: ./aboutme.html
+  - text: "CKD"
+    menu:
+      - text: "Learn more about me"
+        href: ./aboutme.html
+  - text: "TX"
+    menu:
+       - text: "Project part 1"
+         href: ./project1.html
+       - text: "Project part 2"
+         href: ./project2.html
+  - text: "RRT"
+    menu:
+       - text: "Project part 1"
+         href: ./project1.html
+       - text: "Project part 2"
+         href: ./project2.html
+  - text: "DRUGS"
+    menu:
+       - text: "Project part 1"
+         href: ./project1.html
+       - text: "Project part 2"
+         href: ./project2.html
+  - text: "EDU"
     menu:
        - text: "Project part 1"
          href: ./project1.html
@@ -16,4 +42,4 @@ left:
     href: ./contact.html
 right:
   - icon: fa-github fa-lg
-    href: https://github.com/githubusername/mywebsite
+    href: https:eoindosullivan.com
