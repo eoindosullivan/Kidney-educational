@@ -1,37 +1,28 @@
 ---
-title: ""
+title: " "
 output: 
   html_document:
     includes:
     after_body: footer.html
     toc: FALSE
     fig_caption: yes
+    fontawesome: yes
 ---
 
 
-<center>![](images/wizard.png){width=25%}</center>
+<center>![](images/nephromancer.png){width=50%}</center>
 
 <br>
+<p style="text-align: center;">
 
-This website is a collection of renal resources, clinical documents and snippets of information that I find personally useful.
+A collection of notes on nephrology
 
-This will include protocols, educational materials and practice pearls as well as printable resources to provide to patients. Its envisioned that much of this documentation will be assembled from around the internet and will be attributed and linked where relevant. Future plans include an educational component or this may instead become a different website.
+</a></p>
 
-***
+
 &nbsp;
 <hr />
 <p style="text-align: center;">By <a href="https:eoindosullivan.com">Eoin O'Sullivan</a></p>
 <p style="text-align: center;"><span style="color: #808080;"><em>eoindosullivan@gmail.com</em></span></p>
-
-<!-- this is not working correctly, need to call font awesome properly -->
-
-<p style="text-align: center;">
-    <a href="https://twitter.com/eoinrenal" class="fa fa-twitter"></a>
-    <a href="https://www.linkedin.com/in/eoin-o-sullivan-733448a0/" class="fa fa-linkedin"></a>
-    <a href="https://github.com/eoindosullivan" class="fa fa-github">
-    </a><a href="https://www.researchgate.net/profile/Eoin-Osullivan-8" class="fa fa-researchgate"></a>
-    <a href="https://orcid.org/0000-0002-7709-6595" class="fa fa-orcid"></a>
-    
-</p>
 
 &nbsp;

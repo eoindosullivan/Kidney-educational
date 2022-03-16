@@ -18,8 +18,8 @@ left:
         href: ./po4.html
   - text: "GN"
     menu:
-      - text: "H+ & HCO3"
-        href: ./aboutme.html
+      - text: "MCD"
+        href: ./MCD.html
       - text: "Na"
         href: ./aboutme.html
       - text: "K"
@@ -81,5 +81,5 @@ left:
        - text: "Project part 2"
          href: ./project2.html
 right:
-  - icon: fa-github fa-lg
+  - icon: fas fa-home
     href: https:eoindosullivan.com
